@@ -28,10 +28,10 @@ Setting up, starting, and running various TIBCO FTL sample programs that demonst
 - [Linux](https://jmoesa.stackstorage.com/s/ESZNrj72SZfUxm8X) (558 MB)
 - [macOS](https://jmoesa.stackstorage.com/s/Z7nMbBpHna1QQkB5) (174 MB)
 
-#### TIBCO BusinessWorks ContainerEdition v2.5.1 (BWCE)
+#### TIBCO BusinessWorks ContainerEdition v2.5.1 (BWCE) - OPTIONAL
 - [macOS](https://jmoesa.stackstorage.com/s/LfJPFTN8scHtQESs)
 
-#### TIBCO AMX BusinessWorks Plug-in for TIBCO FTL
+#### TIBCO AMX BusinessWorks Plug-in for TIBCO FTL - OPTIONAL
 - [macOS](https://jmoesa.stackstorage.com/s/LBMkud8Fjn3fBWBW)
 
 ## Initial configuration
