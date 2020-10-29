@@ -1,3 +1,5 @@
+# TIBCO FTL 6.5.0 QuickStart
+
 Setting up, starting, and running various TIBCO FTL sample programs that demonstrate typical messaging functionality.
 
 ## Agenda
@@ -75,6 +77,8 @@ ftlstart ftl_sat@localhost:8686 --satelliteof ftls1@localhost:8585
 
 ### Basic Publish-Subscribe sample
 
+Show the Java code of receiver and sender. Note the contentmatcher. 
+
 Start receiver
 ```
 cd $TIBCO_HOME/ftl/current-version/samples/bin
@@ -82,6 +86,8 @@ cd $TIBCO_HOME/ftl/current-version/samples/bin
 tibftlrecv localhost:8585
 
 ```
+Show the client in the Realm service.
+
 In another terminal, start sender
 ```
 cd $TIBCO_HOME/ftl/current-version/samples/bin
